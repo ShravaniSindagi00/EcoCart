@@ -48,6 +48,7 @@ const Navbar = () => {
           Login
         </button>)
         : 
+        
         (
             <div className='relative group'>
                 <img src={assets.profile_icon} className='w-10' alt="" />
